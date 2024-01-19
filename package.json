@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@adonisjs/auth": "^8.2.3",
+    "@adonisjs/core": "^6.2.0"
+  }
 }
